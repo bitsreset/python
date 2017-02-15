@@ -1,6 +1,6 @@
 #Write a program that chooses a random integer between 0 and 100 (inclusive).
 #Then ask the user to guess what number has been chosen. Each time the user enters a guess, 
-#the program indicates whether the user guessed correctly (and exits), or if the guess was too high or too low.
+#the program indicates whether the user guessed correctly (and exits), or if the guess was too high or too low
 
 import random
 answer = random.randint(0,100)
